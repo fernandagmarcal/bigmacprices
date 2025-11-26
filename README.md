@@ -1,6 +1,7 @@
 ## 🍔 Análise e Predição do Preço do Big Mac
 
 Este repositório contém o projeto final da disciplina de **Inteligência Artificial**, focado na aplicação e comparação de modelos de **regressão** para prever os preços do sanduíche Big Mac em diferentes países e épocas.
+* Google Colab Notebook: https://colab.research.google.com/drive/1awsTDzrG9XKb_uj56_6LMqzsrQAbCqYu?usp=sharing
 
 -----
 
